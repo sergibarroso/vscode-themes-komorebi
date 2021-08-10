@@ -1,0 +1,33 @@
+{
+    "name": "komorebi",
+    "displayName": "Komorebi",
+    "description": "Komorebi is a light theme using gentle colors to your eyes",
+    "version": "0.0.1",
+    "publisher": "sergibarroso",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Komorebi",
+                "uiTheme": "vs",
+                "path": "./themes/Komorebi-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sergibarroso/vscode-themes-komorebi"
+    },
+    "keywords": [
+        "theme",
+        "light theme",
+        "sergi barroso",
+        "sergibarroso",
+        "komorebi"
+    ]
+}
