@@ -25,9 +25,11 @@
     },
     "keywords": [
         "theme",
+        "themes",
         "light theme",
         "sergi barroso",
         "sergibarroso",
         "komorebi"
-    ]
+    ],
+    "icon": "assets/icon.png"
 }
