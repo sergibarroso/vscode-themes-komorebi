@@ -15,7 +15,7 @@
 
 > Font used is [Fira Code](https://github.com/tonsky/FiraCode)
 
-**Komorebi**
+### Komorebi
 
 ![VSCode with Komorebi](https://github.com/sergibarroso/vscode-themes-komorebi/raw/main/assets/light-theme.png)
 
