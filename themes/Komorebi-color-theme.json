@@ -28,7 +28,7 @@
     "list.highlightForeground": "#0066bf",
     "list.focusBackground": "#d6ebff",
     "list.focusForeground": "#616161",
-    "listFilterWidget.background": "#efc1ad",
+    "listFilterWidget.background": "#ffd9c9",
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#be1100",
     "statusBar.foreground": "#ffffff",
