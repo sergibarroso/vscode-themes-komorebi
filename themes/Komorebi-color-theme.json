@@ -190,7 +190,7 @@
     "gitDecoration.stageModifiedResourceForeground": "#895503",
     "gitDecoration.submoduleResourceForeground": "#1258a7",
     "gitDecoration.untrackedResourceForeground": "#007100",
-    "editorMarkerNavigation.background": "#ffffff",
+    "editorMarkerNavigation.background": "#fffcf4",
     "editorMarkerNavigationError.background": "#e51400",
     "editorMarkerNavigationWarning.background": "#e9a700",
     "editorMarkerNavigationInfo.background": "#75beff",
