@@ -44,3 +44,6 @@ Temporary Items
 
 ### VisualStudioExtension Package ###
 *.vsix
+
+### Code examples ###
+code_examples
