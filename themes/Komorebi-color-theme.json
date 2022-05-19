@@ -80,7 +80,7 @@
     "panelTitle.activeForeground": "#424242",
     "panelTitle.inactiveForeground": "#424242bf",
     "terminal.selectionBackground": "#0000001a",
-    "terminalCursor.foreground": "#ffffff",
+    "terminalCursor.foreground": "#616161",
     "terminalCursor.background": "#00a970",
     "badge.background": "#c4c4c4",
     "badge.foreground": "#333333",
